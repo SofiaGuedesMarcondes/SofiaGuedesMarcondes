@@ -63,5 +63,5 @@ Focada em aprender mais sobre **a linguagem Javascript e framework React Native*
 
 ---
 
-⭐ Pretendo iniciar mais trabalhos em minha área de interesse para apresentar nesse perfil!
+⭐ Pretendo iniciar mais trabalhos em minha área de interesse!
 
