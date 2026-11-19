@@ -18,9 +18,6 @@ Focada em aprender mais sobre **a linguagem Javascript e framework React Native*
   <a href="https://www.instagram.com/sofi.guedess?bqrl=ZXpiMjFuZmZzZXFp">
     <img src="https://img.shields.io/badge/Instagram-@sofi.guedess-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@sofihguedes?si=hvqJQe7LTcaLb_gt">
-    <img src="https://img.shields.io/badge/YouTube-sofihguedesS-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
 </p>
 
 ---
